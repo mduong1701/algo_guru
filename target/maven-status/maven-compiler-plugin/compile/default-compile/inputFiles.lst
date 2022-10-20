@@ -1,0 +1,16 @@
+/Users/manduong/Documents/workspace-spring-tool-suite-4-4.16.0.RELEASE/AlgoGuru/src/main/java/com/man/algoGuru/repos/UserRepository.java
+/Users/manduong/Documents/workspace-spring-tool-suite-4-4.16.0.RELEASE/AlgoGuru/src/main/java/com/man/algoGuru/ServletInitializer.java
+/Users/manduong/Documents/workspace-spring-tool-suite-4-4.16.0.RELEASE/AlgoGuru/src/main/java/com/man/algoGuru/models/User.java
+/Users/manduong/Documents/workspace-spring-tool-suite-4-4.16.0.RELEASE/AlgoGuru/src/main/java/com/man/algoGuru/services/CommentService.java
+/Users/manduong/Documents/workspace-spring-tool-suite-4-4.16.0.RELEASE/AlgoGuru/src/main/java/com/man/algoGuru/services/QuestionService.java
+/Users/manduong/Documents/workspace-spring-tool-suite-4-4.16.0.RELEASE/AlgoGuru/src/main/java/com/man/algoGuru/repos/QuestionRepo.java
+/Users/manduong/Documents/workspace-spring-tool-suite-4-4.16.0.RELEASE/AlgoGuru/src/main/java/com/man/algoGuru/services/CategoryService.java
+/Users/manduong/Documents/workspace-spring-tool-suite-4-4.16.0.RELEASE/AlgoGuru/src/main/java/com/man/algoGuru/FullCrudApplication.java
+/Users/manduong/Documents/workspace-spring-tool-suite-4-4.16.0.RELEASE/AlgoGuru/src/main/java/com/man/algoGuru/repos/CategoryRepo.java
+/Users/manduong/Documents/workspace-spring-tool-suite-4-4.16.0.RELEASE/AlgoGuru/src/main/java/com/man/algoGuru/models/Question.java
+/Users/manduong/Documents/workspace-spring-tool-suite-4-4.16.0.RELEASE/AlgoGuru/src/main/java/com/man/algoGuru/controllers/LoginController.java
+/Users/manduong/Documents/workspace-spring-tool-suite-4-4.16.0.RELEASE/AlgoGuru/src/main/java/com/man/algoGuru/repos/CommentRepo.java
+/Users/manduong/Documents/workspace-spring-tool-suite-4-4.16.0.RELEASE/AlgoGuru/src/main/java/com/man/algoGuru/models/Category.java
+/Users/manduong/Documents/workspace-spring-tool-suite-4-4.16.0.RELEASE/AlgoGuru/src/main/java/com/man/algoGuru/models/LoginUser.java
+/Users/manduong/Documents/workspace-spring-tool-suite-4-4.16.0.RELEASE/AlgoGuru/src/main/java/com/man/algoGuru/services/UserService.java
+/Users/manduong/Documents/workspace-spring-tool-suite-4-4.16.0.RELEASE/AlgoGuru/src/main/java/com/man/algoGuru/models/Comment.java
